@@ -1,6 +1,8 @@
 # Linux-System-Monitor
 This project displays linux filesystem information using the ncurses graphical library similar to the program htop.
+
 Information includes system details, processor / memory utilization, and detailed information on all individual processes running on the system.
+
 Processes can be sorted by PID, User, CPU Utilization, Memory Utilization, Time Active, and Command. Information updates every second.
 
 ## ncurses
